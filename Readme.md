@@ -1,6 +1,12 @@
-Assignment 7: Embed developed Machine Learning Models to Web page.
+<h1>About</h1>
+  Embed developed Machine Learning Models to Web page.
+<br>
+<h1>Sample</h1>
+<img src= "https://github.com/AryamanGurjar/Salary-Predictor-ML-Project/assets/82881082/d44636fe-9441-4cd4-97f1-4f8406020709">
 
-How to run:
+<br>
+<h1>How to run</h1>
+
 
 1. Run the python file salary.py.
 2. Open the link in the terminal.
